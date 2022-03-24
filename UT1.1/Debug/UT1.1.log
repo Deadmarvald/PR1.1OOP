@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UT1.1.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.1\PR1.1\Pay.cpp(13,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.1\Debug\UT1.1.lib and object D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.1\Debug\UT1.1.exp
+  UT1.1.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.1\Debug\UT1.1.dll
